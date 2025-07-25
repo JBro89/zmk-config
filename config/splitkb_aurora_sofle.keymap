@@ -42,7 +42,7 @@
 &kp TAB    &kp F   &kp P            &kp D     &kp L     &kp X                            &kp SEMICOLON  &kp U              &kp O      &kp Y      &kp B     &kp Z
 &kp LCTRL  &kp S   &kp N            &kp T     &kp H     &kp K                            &kp COMMA      &kp A              &kp E      &kp I      &kp C     &kp Q
 &kp LSHFT  &kp V   &kp W            &kp G     &kp M     &kp J   &kp K_MUTE    &soft_off  &kp MINUS      &kp PERIOD         &kp COMMA  &kp EQUAL  &kp FSLH  &kp RSHFT
-                   &kp PRINTSCREEN  &kp LALT  &kp LGUI  &kp R   &mo 1         &kp DEL    &kp SPACE      &kp RIGHT_CONTROL  &mo 2      &kp RALT
+                   &kp PRINTSCREEN  &kp LALT  &kp LGUI  &kp R   &mo 1         &kp BSPC   &kp SPACE      &kp RIGHT_CONTROL  &mo 2      &kp RALT
             >;
 
             sensor-bindings =
