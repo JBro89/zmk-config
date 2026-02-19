@@ -12,7 +12,8 @@ manifest:
     - name: zmk
       remote: zmkfirmware
       import: app/west.yml
-    - name: nice-view-gem
+      revision: v0.3
+    - name: nice-view-bettery
       remote: Jbro89
       revision: v0.3
   self:
